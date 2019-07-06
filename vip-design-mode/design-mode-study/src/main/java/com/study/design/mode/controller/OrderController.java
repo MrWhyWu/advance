@@ -15,7 +15,7 @@ public class OrderController {
 	private OrderService orderService;
 
 	/**
-	 * 计算订单的促销金额
+	 * 计算订单的促销金额test
 	 */
 //	@RequestMapping("prepare")
 //	public Order prepareOrder(Order order, String promotion) {
